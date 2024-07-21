@@ -38,3 +38,6 @@ VulkanDemo/cmake-build-debug/shaders/shader.frag
 VulkanDemo/cmake-build-debug/shaders/shader.vert
 VulkanDemo/cmake-build-debug/shaders/vert.spv
 VulkanDemo/cmake-build-debug/shaders/vkvia.html
+
+.idea/
+VulkanDemo/cmake-build-debug/*
